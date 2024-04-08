@@ -1,10 +1,10 @@
 # TPE 
 
 # Materia 2024
-Introducción a la Programación Orientada a Objetos
-Tecnicatura en Desarrollo Web
-Facultad de Informática
-Universidad Nacional del Comahue
+- Introducción a la Programación Orientada a Objetos
+- Tecnicatura en Desarrollo Web
+- Facultad de Informática
+- Universidad Nacional del Comahue
 
 
 # Estudiante
